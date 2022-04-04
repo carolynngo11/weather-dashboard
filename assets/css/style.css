@@ -14,3 +14,7 @@ aside {
 h2, h3, .cityName {
     font-weight: bold;
 }
+
+.temp, .wind, .humidity, .index {
+    font-weight: 500;
+}
