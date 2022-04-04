@@ -8,6 +8,8 @@ header {
 
 aside {
     float: left;
+    width: 400px;
+    border-bottom: solid 2px rgb(129, 129, 129);
 }
 
 h4 {
