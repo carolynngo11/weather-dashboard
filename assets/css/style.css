@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-image: linear-gradient(to right, rgb(30, 115, 194), rgb(28, 0, 54));
+}
+
+aside {
+    float: left;
+}
+
+h4 {
+    font-weight: bold;
+}
