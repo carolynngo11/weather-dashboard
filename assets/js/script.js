@@ -8,6 +8,7 @@
 // Function for history search button
 
 // Function for weather data
+    // UV index color identifier
 
 // Function for 5-Day forecast
 
