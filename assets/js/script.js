@@ -5,7 +5,7 @@
     // Add temp, wind, humidity, and (uv) index variable
     // Add forecast card variable
 
-var apiUrl = "";
+var apiKey = "46b4cc12b7fab455d566ae2c405fc5fe";
 
 var searchBtn = $(".historySearchBtn");
 var searchTerm = $("#search-term");
@@ -31,7 +31,9 @@ searchBtn.on("click", function (event) {
 
 // Function for weather data
     // UV index color identifier
+moment().format('L');
 
 // Function for 5-Day forecast
+
 
 // Function for 5-Day forecast (date, icon, temp, wind, and humidity)
