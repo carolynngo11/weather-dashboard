@@ -29,6 +29,6 @@ In this assignment I have created a weather dashboard to search a city's weather
 - Added functions
 - Implemented API URL
 
-IMAGE PLACEHOLDER
+![weather-dashboard-screenshot](https://user-images.githubusercontent.com/99929883/161672844-b3a49022-60a3-44fb-8d2a-6fb49e7a78a2.JPG)
 
 **Deployment Application Link:** https://carolynngo11.github.io/weather-dashboard/
